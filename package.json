@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "attack": "node tools/cli.js",
-    "attack:full": "node tools/cli.js --mode full",
-    "attack:quick": "node tools/cli.js --mode quick",
+    "attack:full": "node tools/cli.js attack --mode full",
+    "attack:quick": "node tools/cli.js attack --mode quick",
     "test": "jest",
     "lint": "eslint .",
     "report": "node automation/report-generator.js"
