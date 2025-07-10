@@ -32,4 +32,6 @@ build/
 
 # Temporary
 tmp/
-temp/
+temp/venv/
+__pycache__/
+*.pyc

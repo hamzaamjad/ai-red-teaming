@@ -1,0 +1,5 @@
+# No external libraries are required for this basic scanner.
+# A more advanced version might include:
+# numpy
+# scikit-learn
+# tensorflow
